@@ -2,7 +2,7 @@
 
 ## About Me
 
-B.Tech in Computer Science with interests in Python Development, Data Analysis, SQL, Artificial Intelligence, and Machine Learning.
+B.Tech in Computer Science with 3 years of experience as a Software Engineer. Skilled in Python development, SQL, automation, data analysis, and software problem-solving. Passionate about building scalable applications and exploring AI-driven solutions.
 
 ## Technical Skills
 
@@ -23,6 +23,11 @@ B.Tech in Computer Science with interests in Python Development, Data Analysis, 
 * Git
 * GitHub
 * VS Code
+
+Add:
+
+Linux
+REST APIs
 
 ## Featured Projects
 
@@ -64,17 +69,18 @@ CRUD-based employee management application.
 
 ## Current Focus
 
-• Python Development
+• Software Development
+• Python Automation
 • Data Analysis
-• Artificial Intelligence
-• Machine Learning
-• Automation Projects
+• SQL & Database Management
+• AI & Machine Learning
 
 ## GitHub Stats
 
-* 10+ Python Projects
-* SQL Practice Repository
-* Automation & Data Analysis Projects
+• 10+ Python Projects
+• 3 Years Software Engineering Experience
+• SQL & Automation Projects
+• Data Analysis Portfolio
 
 ## Contact
 
