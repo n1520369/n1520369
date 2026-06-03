@@ -5,6 +5,17 @@
 B.Tech in Computer Science with 3 years of experience as a Software Engineer. Skilled in Python development, SQL, automation, data analysis, and software problem-solving. Passionate about building scalable applications and exploring AI-driven solutions.
 
 ## Technical Skills
+Frameworks
+
+• Flask
+
+Additional Skills
+
+• REST APIs
+• SQLite
+• Linux
+• Object-Oriented Programming
+• Data Structures & Algorithms
 
 ### Programming Languages
 
@@ -87,7 +98,7 @@ CRUD-based employee management application.
 
 ## GitHub Stats
 
-• 10+ Python Projects
+• 13+ Python Projects
 • 3 Years Software Engineering Experience
 • SQL & Automation Projects
 • Data Analysis Portfolio
