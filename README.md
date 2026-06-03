@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Nandani Srivastva 👋
 
-<!--
-**n1520369/n1520369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+M.Tech in Mathematics and Computing with interests in Python Development, Data Analysis, SQL, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Programming Languages
+
+* Python
+* SQL
+
+### Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+* BeautifulSoup
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+## Featured Projects
+
+### SQL Practice Repository
+
+Advanced SQL queries including joins, subqueries, and window functions.
+
+### Python Web Scraper
+
+Web scraping tool built using Requests and BeautifulSoup.
+
+### OCR Text Extraction Tool
+
+Extract text from images using OCR techniques.
+
+### PDF Parser
+
+PDF document parsing and text extraction.
+
+### AI Resume Analyzer
+
+Resume skill extraction and job matching system.
+
+### Data Analysis Project
+
+Data analysis and visualization using Python libraries.
+
+### Automated File Organizer
+
+Automation tool for organizing files into categorized folders.
+
+### Employee Management System
+
+CRUD-based employee management application.
+
+## Education
+
+**M.Tech – Mathematics and Computing**
+
+## Current Focus
+
+* Python Development
+* Data Analysis
+* AI & Machine Learning
+* Automation Projects
+
+## GitHub Stats
+
+* 10+ Python Projects
+* SQL Practice Repository
+* Automation & Data Analysis Projects
+
+## Contact
+
+GitHub: github.com/n1520369
