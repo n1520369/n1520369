@@ -1,8 +1,8 @@
-# Hi, I'm Nandani Srivastva 👋
+# Hi, I'm Nandini Srivastva 👋
 
 ## About Me
 
-M.Tech in Mathematics and Computing with interests in Python Development, Data Analysis, SQL, Artificial Intelligence, and Machine Learning.
+B.Tech in Computer Science with interests in Python Development, Data Analysis, SQL, Artificial Intelligence, and Machine Learning.
 
 ## Technical Skills
 
@@ -60,14 +60,15 @@ CRUD-based employee management application.
 
 ## Education
 
-**M.Tech – Mathematics and Computing**
+**B.Tech – Computer Science**
 
 ## Current Focus
 
-* Python Development
-* Data Analysis
-* AI & Machine Learning
-* Automation Projects
+• Python Development
+• Data Analysis
+• Artificial Intelligence
+• Machine Learning
+• Automation Projects
 
 ## GitHub Stats
 
