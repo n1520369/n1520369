@@ -23,6 +23,10 @@ B.Tech in Computer Science with 3 years of experience as a Software Engineer. Sk
 * Git
 * GitHub
 * VS Code
+* Linux
+* REST APIs
+* SQLite
+* Postman
 
 Add:
 
@@ -30,6 +34,12 @@ Linux
 REST APIs
 
 ## Featured Projects
+REST API Service
+Database Management System
+Employee Management System
+AI Resume Analyzer
+Data Analysis Project
+Python Web Scraper
 
 ### SQL Practice Repository
 
